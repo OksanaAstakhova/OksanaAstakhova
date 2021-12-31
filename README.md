@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OksanaAstakhova
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Frontend at EPAM laboratory
 - 💞️ I’m looking to collaborate on some beautiful projects
 - 📫 How to reach me via this account
 
